@@ -1,5 +1,5 @@
 # ResNet based image classifiers 
-Hello everyone ,welcome to my Github Repo . 
+Hello everyone ,welcome to my Github Repo . <br/>
 While developing my GAN project ,I also had to train some classfiers for the pipeline to do that .
 I followed some very intuitive explanations on Jason Brownlee's website [MachineLearningMastery](https://machinelearningmastery.com/) .
 I tried to take one step further by adding ResNet blocks to the classifiers and also trained some more classifiers for other datasets .
