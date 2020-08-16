@@ -16,5 +16,6 @@ I have intentionally kept this models small for any learner to copy the code and
 
 **Emnist_MobileNetV2.ipynb** :- I tried MobileNetV2 feature extractor for same purpose and i will compare my findings </br>
 This jupyer notebook is self explanatory .
+Reference :- [yumaloop github repo](https://github.com/yumaloop/mobilenetV2-cifar)
 
 **To Do :-** Train on other generic datasets like ,Cifar 10 & 100 ,Flowers . Add MobileNet v2 backbone
