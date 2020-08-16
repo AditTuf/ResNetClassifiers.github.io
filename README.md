@@ -15,6 +15,8 @@ This model also saves the feature extractor weights along with full classifier w
 I have intentionally kept this models small for any learner to copy the code and see results within minutes in Google Colab <br/>
 
 **Emnist_MobileNetV2.ipynb** :- I tried MobileNetV2 feature extractor for same purpose and i will compare my findings </br>
+For reaching same accuracy of 92% on Test Set . ResNet requires atleast 2 Millions parameters (Total size 15MB) </br>
+While the MobileNet architecture we are using requires 0.3M parameters (Total Size < 1.5 Mb)
 This jupyer notebook is self explanatory .
 Reference :- [yumaloop github repo](https://github.com/yumaloop/mobilenetV2-cifar)
 
